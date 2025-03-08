@@ -1,0 +1,16 @@
+{
+  "name": "brainrot",
+  "version": "1.0.0",
+  "description": "I am at gunpoint",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  }
+}
